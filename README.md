@@ -68,5 +68,6 @@ make run                            # or: adk web
 | Agent                                                         | Description                                                                                                                                                    |
 | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [`location_intelligence_agent`](location_intelligence_agent/) | Combines a BigQuery MCP toolset (demographics, pricing, sales) with a Google Maps MCP toolset to answer market-siting questions for a fictitious bakery chain. |
+| [`bigquery_analytics_agent`](bigquery_analytics_agent/)       | Skeleton agent for analyzing data in BigQuery via a BigQuery analytics plugin/toolset, answering questions in natural language without hand-written SQL.       |
 
 New agents should follow the same shape: a `Makefile`, setup/cleanup scripts, and an `agent.py` that reads its config from the environment.

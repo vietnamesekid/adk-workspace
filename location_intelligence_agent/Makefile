@@ -1,10 +1,7 @@
-.PHONY: run install setup-env setup-bigquery cleanup
+.PHONY: run setup-env setup-bigquery cleanup
 
 run:
 	adk web
-
-install:
-	pip install -r requirements.txt
 
 setup-env:
 	./setup_env.sh

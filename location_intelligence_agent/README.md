@@ -5,6 +5,10 @@ This project guides you through building an intelligent agent using the Agent De
 
 The resulting agent can orchestrate requests between the user and Google Cloud services to solve business problems related to a fictitious bakery dataset.
 
+## Architecture
+
+![Location Intelligence Agent architecture](https://codelabs.developers.google.com/static/adk-mcp-bigquery-maps/img/82dd7bd2823a821b_856.png)
+
 ## What You'll Do
 * **Set up the Data:** Create the foundational bakery dataset in BigQuery.
 * **Develop the Agent:** Build an intelligent agent using the Agent Development Kit (ADK).

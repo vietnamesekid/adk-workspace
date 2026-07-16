@@ -1,0 +1,17 @@
+week_start_date,store_location,product_type,quantity_sold,total_revenue
+2026-06-01,Santa Monica,Sourdough Loaf,420,3150.00
+2026-06-01,Santa Monica,Croissant,980,3185.00
+2026-06-01,Silver Lake,Sourdough Loaf,310,2325.00
+2026-06-01,Silver Lake,Croissant,760,2470.00
+2026-06-08,Santa Monica,Sourdough Loaf,455,3412.50
+2026-06-08,Santa Monica,Croissant,1020,3315.00
+2026-06-08,Silver Lake,Sourdough Loaf,295,2212.50
+2026-06-08,Silver Lake,Croissant,700,2275.00
+2026-06-15,Venice,Sourdough Loaf,380,2641.00
+2026-06-15,Venice,Baguette,540,2430.00
+2026-06-15,SoMa,Sourdough Loaf,600,4800.00
+2026-06-15,SoMa,Croissant,1150,4312.50
+2026-06-22,Mission District,Sourdough Loaf,510,4717.50
+2026-06-22,Mission District,Croissant,890,3560.00
+2026-06-22,Temescal,Baguette,320,1360.00
+2026-06-22,Temescal,Croissant,610,2135.00

@@ -1,0 +1,13 @@
+store_name,product_type,price,region,is_organic
+Golden Crust Bakery,Sourdough Loaf,7.50,Los Angeles Metro,true
+Golden Crust Bakery,Croissant,3.25,Los Angeles Metro,false
+Sunrise Bake House,Sourdough Loaf,8.00,SF Bay Area,true
+Sunrise Bake House,Croissant,3.75,SF Bay Area,true
+Venice Bread Co,Sourdough Loaf,6.95,Los Angeles Metro,false
+Venice Bread Co,Baguette,4.50,Los Angeles Metro,false
+Mission Sourdough,Sourdough Loaf,9.25,SF Bay Area,true
+Mission Sourdough,Croissant,4.00,SF Bay Area,true
+Oakland Oven,Baguette,4.25,SF Bay Area,false
+Oakland Oven,Croissant,3.50,SF Bay Area,false
+Long Beach Loaves,Sourdough Loaf,6.50,Los Angeles Metro,false
+Long Beach Loaves,Baguette,4.00,Los Angeles Metro,false

@@ -13,7 +13,7 @@ bigquery_mcp_toolset = get_bigquery_mcp_toolset()
 maps_mcp_toolset = get_maps_mcp_toolset(maps_api_key=MAPS_API_KEY)
 
 root_agent = Agent(
-    model='gemini-2.5-flash',
+    model='gemini-3.1-pro-preview',
     name='root_agent',
     instruction="""Help the user answer questions by strategically combining insights from two sources:
     
